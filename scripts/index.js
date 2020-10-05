@@ -86,5 +86,5 @@ window.addEventListener('click' , function(event) {
 //When the user clicks on AllPosts, redirect to bloglist.html
 var allpostsbtn = document.getElementById("all-posts-btn");
 allpostsbtn.onclick = function() {
-  window.location.href = "html/bloglist.html";
+  window.location.href = "html/postslist.html";
 }
